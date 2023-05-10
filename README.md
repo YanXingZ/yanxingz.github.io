@@ -1,5 +1,5 @@
 # yanxingz.github.io
-我的网站  
+<a href="https://yanxingz.github.io">首页</a>  
 1、 创建一个解决仓库   
 2、 导入网页文件  
 3、 在设置》》页面》》分支  选择main》》root  
